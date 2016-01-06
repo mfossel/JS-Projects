@@ -7,4 +7,4 @@ FizzBuzz- Logs the numbers 1-100. Logs Fizz if the numer is multiple of 3, Buzz 
 
 PI to the Nth Degree- Calculates PI to the inputted degree.
 
-Reverse a String- Reverses an inputted string and states with it is a palindrome. 
+Reverse a String- Reverses an inputted string and states if it is a palindrome. 
