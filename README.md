@@ -10,3 +10,5 @@ PI to the Nth Degree- Calculates PI to the inputted degree.
 Reverse a String- Reverses an inputted string and states if it is a palindrome. 
 
 Dice Roller- Roll any amount of dice with any amount of sides.
+
+Guess the Number- Guess a number between 1 and 10.
