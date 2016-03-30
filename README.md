@@ -1,5 +1,5 @@
 # JS-Projects
-JavaScript Projects
+###JavaScript Projects
 
 Count Vowels- Counts the number of vowels in a string.
 
