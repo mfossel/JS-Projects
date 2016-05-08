@@ -14,5 +14,3 @@ Reverse the Words- Similar to Reverse a String except the words are reversed ins
 Dice Roller- Roll any amount of dice with any amount of sides.
 
 Guess the Number- Guess a number between 1 and 10.
-
-Fibonacci- Efficient memoized Fibonacci finder
